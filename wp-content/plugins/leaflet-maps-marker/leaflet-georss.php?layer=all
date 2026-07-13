@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<atom:link href="http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-georss.php?layer=all" rel="self" type="application/rss+xml" />
+<link>http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-fullscreen.php?layer=0</link>
+<title>CSWIM 2013 - maps</title>
+<lastBuildDate>Tue, 21 May 2013 01:05:11 +1500</lastBuildDate>
+<generator>www.mapsmarker.com</generator>
+<description>GeoRSS-feed created with Maps Marker Pro (www.mapsmarker.com)</description>
+<item>
+<title>CSWIM 2013 Venue</title>
+<link>http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-fullscreen.php?marker=1</link>
+<guid isPermaLink="false">CSWIM_2013-layer-1-marker-1</guid>
+<pubDate>Tue, 21 May 2013 01:05:32 +1500</pubDate>
+<dc:creator>admin</dc:creator>
+<description><![CDATA[CSWIM 2013 Conference Venue: Tianjin University Building #26]]></description>
+<source url="http://2013.cswimworkshop.org">http://2013.cswimworkshop.org</source>
+<georss:where>
+<gml:Point>
+<gml:pos>39.109659 117.174833</gml:pos>
+</gml:Point>
+</georss:where>
+</item>
+<item>
+<title>The Westin Tianjin</title>
+<link>http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-fullscreen.php?marker=2</link>
+<guid isPermaLink="false">CSWIM_2013-layer-1-marker-2</guid>
+<pubDate>Tue, 21 May 2013 01:05:19 +1500</pubDate>
+<dc:creator>admin</dc:creator>
+<description><![CDATA[The Westin Tianjin]]></description>
+<source url="http://2013.cswimworkshop.org">http://2013.cswimworkshop.org</source>
+<georss:where>
+<gml:Point>
+<gml:pos>39.117181 117.204620</gml:pos>
+</gml:Point>
+</georss:where>
+</item>
+<item>
+<title>Tianyu Hotel</title>
+<link>http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-fullscreen.php?marker=3</link>
+<guid isPermaLink="false">CSWIM_2013-layer-1-marker-3</guid>
+<pubDate>Tue, 21 May 2013 01:05:43 +1500</pubDate>
+<dc:creator>admin</dc:creator>
+<description><![CDATA[Tianyu Hotel, Tianjin, China]]></description>
+<source url="http://2013.cswimworkshop.org">http://2013.cswimworkshop.org</source>
+<georss:where>
+<gml:Point>
+<gml:pos>39.108951 117.182536</gml:pos>
+</gml:Point>
+</georss:where>
+</item>
+<item>
+<title>Tianjin University 42 Zhai Guest House</title>
+<link>http://2013.cswimworkshop.org/wp-content/plugins/leaflet-maps-marker/leaflet-fullscreen.php?marker=4</link>
+<guid isPermaLink="false">CSWIM_2013-layer-1-marker-4</guid>
+<pubDate>Tue, 21 May 2013 01:05:11 +1500</pubDate>
+<dc:creator>admin</dc:creator>
+<description><![CDATA[Tianjin University 42 Zhai Guest House]]></description>
+<source url="http://2013.cswimworkshop.org">http://2013.cswimworkshop.org</source>
+<georss:where>
+<gml:Point>
+<gml:pos>39.108693 117.167655</gml:pos>
+</gml:Point>
+</georss:where>
+</item>
+</channel>
+</rss>
